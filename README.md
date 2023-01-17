@@ -2,4 +2,4 @@
 - 👀 I’am interested in NODS and everything connected with them
 - 🌱 I’m currently learning ...
 - 💞️ I am looking for cooperation with more experienced people in this field
-- 📫 Get in touch with me
+- 📫 Get in touch with me edotoday.eth@mail3.me
