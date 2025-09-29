@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edotoday
+- 👋 Hi, I’m edotoday
 - 👀 I’am interested in NODS and everything connected with them
 - 🌱 I’m currently learning ...
 - 💞️ I am looking for cooperation with more experienced people in this field
