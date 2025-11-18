@@ -1,9 +1,8 @@
 <div align="center">
 
   <!-- Баннер -->
-  <img width="900" height="280" src="https://github.com/user-attachments/assets/your-banner-id-here" alt="edotoday banner"/>
   <!-- ↑ Замени на свой баннер или оставь этот временный: -->
-  <img width="900" height="280" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=edotoday.eth&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+  <img width="900" height="280" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=edotoday&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 
   <h1>Hey, I'm edotoday</h1>
   
