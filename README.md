@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Баннер -->
-  <!-- ↑ Замени на свой баннер или оставь этот временный: -->
-  <img width="900" height="280" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=edotoday&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+  <!-- Волновой градиентный баннер (всегда работает) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=edotoday.eth&fontSize=80&fontColor=fff&animation=twinkling" />
 
-    
+  <h1>Hey, I'm edotoday.eth</h1>
+  
   <p>
     <strong>Full-Stack Web3 Developer • Solidity + Frontend • Building the decentralized future</strong>
   </p>
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://edotoday.eth.limo">
-    <img src="https://img.shields.io/badge/ENS-0366D6?style=for-the-badge&logo=ethereum&logoColor=white" alt="ENS"/>
+    <img src="https://img.shields.io/badge/ENS-edotoday.eth-0366D6?style=for-the-badge&logo=ethereum&logoColor=white" alt="ENS"/>
   </a>
 
   <br><br><br>
@@ -30,8 +30,8 @@
 
   <br><br>
 
-  <!-- Трофейки (исправленная ссылка + правильные параметры) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=edotoday&theme=gruvbox&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies"/>
+  <!-- Трофейки -->
+  <img src="https://github-profile-trophy.vercel.app/?username=edotoday&theme=gruvbox&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies"/>
 
   <br><br>
 
@@ -41,9 +41,10 @@
 
   <br><br>
 
-  <!-- 3D Skyline 2024–2025 (всегда работает) -->
-  <img height="300" src="https://skyline.github.com/edotoday/2024" alt="GitHub Skyline 2024"/>
-  <img height="300" src="https://skyline.github.com/edotoday/2025" alt="GitHub Skyline 2025"/>
+  <!-- Skyline 2024 и 2025 (теперь в одной строке и с правильными ссылками) -->
+  <img height="220" src="https://skyline.github.com/edotoday/2024" alt="Skyline 2024"/>
+  &nbsp;
+  <img height="220" src="https://skyline.github.com/edotoday/2025" alt="Skyline 2025"/>
 
   <br><br>
 
@@ -52,11 +53,14 @@
 
   <br><br>
 
-  <!-- Анимированный текст -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=fabd2f¢er=true&vCenter=true&width=700&lines=Building+on+Ethereum+&+Base;Solidity+%7C+Next.js+%7C+Wagmi;Open+for+Web3+collabs+%26+bounties!" />
+  <!-- Анимированный текст (исправленная опечатка ¢er → center) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=fabd2f&center=true&vCenter=true&width=700&lines=Building+on+Ethereum+%26+Base;Solidity+%7C+Next.js+%7C+Wagmi;Open+for+Web3+collabs+%26+bounties!" />
+
+  <br><br>
 
 </div>
 
 ---
-**Web3 builder • Always open for collabs & paid work**  
-DM me on [X](https://x.com/edotoday_eth) or email
+
+**Web3 builder • Open for collabs, bounties & paid gigs**  
+DM me on [X](https://x.com/edotoday_eth) or email anytime
