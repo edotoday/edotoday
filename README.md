@@ -4,8 +4,7 @@
   <!-- ↑ Замени на свой баннер или оставь этот временный: -->
   <img width="900" height="280" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=edotoday&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 
-  <h1>Hey, I'm edotoday</h1>
-  
+    
   <p>
     <strong>Full-Stack Web3 Developer • Solidity + Frontend • Building the decentralized future</strong>
   </p>
